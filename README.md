@@ -56,6 +56,7 @@ I'm a passionate Software Engineering Student based in Ho Chi Minh City, Vietnam
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanphat45200@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ethan-cao-93741438a/)
 
 </div>
 
