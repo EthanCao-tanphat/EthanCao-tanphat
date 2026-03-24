@@ -12,12 +12,10 @@
 
 ### 🧑‍💻 About Me
 
-### 🧑‍💻 About Me
-
 I'm a passionate Computer Science Student based in Ho Chi Minh City, Vietnam, driven by an unshakeable belief that hard work, consistency, and a genuine hunger for knowledge are the true foundations of growth. I'm always exploring new technologies, frameworks, and ideas — not because I have to, but because I genuinely love the process of discovering something I've never seen before. Whether it's diving deep into **Python**, experimenting with **JavaScript/TypeScript**, or jumping into a **hackathon** to solve real-world problems under pressure, I embrace every challenge as an opportunity to level up. I believe that the best developers aren't the ones who know everything — they're the ones who never stop learning.
 
 > *"When you're at the bottom, every path leads upward."*
-> 🧑‍💻 **Currently:** 🎓 Student | 💻 Actively learning & building projects | 🔍 Open to internship opportunities
+🧑‍💻 **Currently:** 🎓 Student | 💻 Actively learning & building projects | 🔍 Open to internship opportunities
 
 ---
 
