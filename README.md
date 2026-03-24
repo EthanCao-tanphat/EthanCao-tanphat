@@ -4,3 +4,4 @@
 
 <br/>
 
+![snake](https://raw.githubusercontent.com/EthanCao-tanphat/EthanCao-tanphat/output/github-snake-dark.svg)
