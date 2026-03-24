@@ -4,4 +4,3 @@
 
 <br/>
 
-![snake](https://raw.githubusercontent.com/EthanCao-tanpha
