@@ -4,7 +4,7 @@
 
 <br/>
 
-🎓 **CS Student** &nbsp;|&nbsp; 💻 **Full Stack Developer** &nbsp;|&nbsp; 🌱 **Always Learning**
+🎓 **SE Student** &nbsp;|&nbsp; 💻 **Full Stack Developer** &nbsp;|&nbsp; 🌱 **Always Learning**
 
 </div>
 ---
