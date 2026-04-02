@@ -34,17 +34,6 @@ I'm a passionate Software Engineering Student based in Ho Chi Minh City, Vietnam
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=EthanCao-tanphat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanCao-tanphat&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
-
----
-
 ### 🐍 Contribution Graph
 
 ![snake](https://raw.githubusercontent.com/EthanCao-tanphat/EthanCao-tanphat/output/github-snake-dark.svg)
